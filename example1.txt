@@ -1,0 +1,12 @@
+Example1
+1. Number of Variable :
+4
+
+2. Number of minterms for f -1 & Number of minterms for don't care condition : 
+8 3
+
+3. Minterm list by number for f=1 :
+0 2 5 6 7 8 9 13
+
+4. Minterm list by number for don't care condition :
+1 12 15
