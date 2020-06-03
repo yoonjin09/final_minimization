@@ -11,5 +11,5 @@ example2.txt : 두 번째, 변수가 5개인 예제 입니다.
 example3.txt : 세 번째, 변수가 6개인 예제 입니다.
 example4.txt : 네 번째, 변수가 7개인 예제 입니다.
 
-github 모든 자료가 포함 되어있습니다 : https://github.com/yoonjin09/final_minimization.git
+github에 영상을 제외한 모든 자료가 포함 되어있습니다 : https://github.com/yoonjin09/final_minimization.git
 
