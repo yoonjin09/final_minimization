@@ -13,3 +13,7 @@ example4.txt : 네 번째, 변수가 7개인 예제 입니다.
 
 github에 영상을 제외한 모든 자료가 포함 되어있습니다 : https://github.com/yoonjin09/final_minimization.git
 
+
+
+
+시작은 여기서 ->>https://github.com/yoonjin09/minimization.git
